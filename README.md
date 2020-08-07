@@ -15,6 +15,6 @@ Refer to this Research paper for further Information - <b> An open source framew
 
 <p>
   
-The <b> GTFS Static Downloader<b> and <b>GTFS Realtime Downloader<b> are scripted on <b>Python-3<b>.
+The <b> GTFS Static Downloader</b> and <b>GTFS Realtime Downloader</b> are scripted on <b>Python-3</b>.
 
 </p>
