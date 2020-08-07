@@ -17,7 +17,7 @@ Refer to this Research paper for further Information - <b> An open source framew
 The <b> GTFS Static Downloader</b> and <b>GTFS Realtime Downloader</b> are scripted on <b>Python-3</b>. 
 </p>
 
-<h1> Visualization of GTFS Data </h1>
+<h2> Visualization of GTFS Data </h2>
 
 <p> Visit https://abhaskar6.wixsite.com/abhas/tviz to get an insight into the dataset with help of <b> Tableau Visualization </b>. <p>
 
