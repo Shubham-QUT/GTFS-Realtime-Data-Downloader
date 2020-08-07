@@ -9,6 +9,6 @@ The continuous research, modifications and advancements resulted in evolution of
 
 <p>
   
-Refer to the Research Paper for further Information - <b> An open source framework for GTFS data analytics: case study using the Brisbane TransLink network </b> https://trid.trb.org/view/1693184
+Refer to this Research paper for further Information - <b> An open source framework for GTFS data analytics: case study using the Brisbane TransLink network </b> https://trid.trb.org/view/1693184
 
 </p>
