@@ -12,3 +12,9 @@ The continuous research, modifications and advancements resulted in evolution of
 Refer to this Research paper for further Information - <b> An open source framework for GTFS data analytics: case study using the Brisbane TransLink network </b> https://trid.trb.org/view/1693184
 
 </p>
+
+<p>
+  
+The <b> GTFS Static Downloader<b> and <b>GTFS Realtime Downloader<b> are scripted on <b>Python-3<b>.
+
+</p>
